@@ -38,7 +38,7 @@ stages:
         type: includes
         includes:
           - modules/50-install-debs.yml
-          - 01-sway-environment.yml
+          - modules/01-sway-environment.yml
 
       # Put your custom actions above this comment
 
