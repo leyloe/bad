@@ -2,11 +2,8 @@ name: sway-environment
 type: apt
 source:
   packages:
-    - sway
+    - hyprland
     - waybar
-    - swaylock
-    - swayidle
     - wofi
-    - sway-notification-center
     - nm-connection-editor
     - fonts-font-awesome
